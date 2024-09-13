@@ -1,0 +1,4 @@
+function moikka()
+{
+    alert("Hei");
+}
